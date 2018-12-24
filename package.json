@@ -1,0 +1,21 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "The app to provide the survey for finding a compatible friend.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "friend",
+    "finder"
+  ],
+  "author": "miya-studio",
+  "license": "ISC"
+}
